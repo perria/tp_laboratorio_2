@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1492643433 source:c:\users\alumno\desktop\tramites\tramites\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1492643380 c:\users\alumno\desktop\tramites\tramites\funciones.h
+
